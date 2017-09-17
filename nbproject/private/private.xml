@@ -3,11 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/Main.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/Clases/Filemaker.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/Clases/Facade.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/Clases/Lsimple.java</file>
-            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/Clases/Nodo.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/graphics/VentanaDosController.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/Jsons/NewStore.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/graphics/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/Jsons/JsonBuilder.java</file>
+            <file>file:/C:/Users/Daniel/Documents/NetBeansProjects/DB_proyect1/src/graphics/Graphics.java</file>
         </group>
     </open-files>
 </project-private>
